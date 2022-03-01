@@ -1,0 +1,5 @@
+**/backup**
+**/data/
+**/point_cloud/
+client_secrets.json
+upload.py-oauth2.json
